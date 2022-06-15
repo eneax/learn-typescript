@@ -9,4 +9,4 @@
 
 ### Info
 
-This repo contains all the notes and exercises for UI.dev's [TypeScript](https://ui.dev/typescript) course.
+This repo contains all the notes and exercises for UI.dev's [TypeScript](https://ui.dev/typescript) and [React with TypeScript](https://ui.dev/react-with-typescript) courses.
